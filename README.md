@@ -30,6 +30,14 @@
 - **用户可以指定某页ppt出现数字人以及上传自定义音频，更加灵活🤩**
 - **修复了以知的BUG。**
 
+## 更新说明（1.4.0）
+
+- **本次更新中，用户可以通过上传带有自身肢体动作的视频，对数字人形象进行动作添加，最终使得数字人画面更加生动形象，视频呈现效果更接近真人。**
+
+https://github.com/user-attachments/assets/fdf3ceee-3026-47bf-ae42-4b30a5694d1c
+
+- **我们对ppt插入数字人和声音的部分进行了调整，用户在配置时可以自行选择增加数字人及音频的页码，可以选择仅添加数字人或仅添加音频。**
+
 > [!IMPORTANT]
 >
 > 🔆 该项目也在持续的更新阶段，如果您有任何关于新的模型方法、研究、技术或发现运行错误的建议，请随时编辑并提交 PR。⭐ 如果您发现这个Github Project有用，请给它点个星！🤩🤩
@@ -62,6 +70,15 @@
  <img src="docs/4.png"/><br>
  </div>
 
+ **提供视频配置界面：**
+  <div align="center">
+ <img src="docs/12.png"/><br>
+ </div>
+
+   <div align="center">
+ <img src="docs/13.png"/><br>
+ </div>
+
  **提供音频克隆界面：**
 可以在软件上进行简单的VITS声音克隆。
 
@@ -82,10 +99,13 @@
 
 
 **2、配置环境**
-- **VS2019安装，安装方法参考 http://t.csdnimg.cn/oJsW0 安装后打开本项目。**
+- **VS2022安装，安装方法参考 http://t.csdnimg.cn/oJsW0 安装后打开本项目。**
 - **管理NuGet程序包，安装NAudio和Newtonsoft.Json。**
 - **启动[Digital_Human_API](https://github.com/xaio6/Digital_Human_API)项目的后端服务，获取http链接。**
 
+**⚠️注意：**
+
+**如果使用的后端服务是AutoDL的，使用AutoDL的代理工具后，这个http链接为"http://127.0.0.1:6006/"**
 <div align="center">
  <img src="docs/7.png"/><br>
  </div>
@@ -144,6 +164,10 @@
 **数字人生成使用的是SadTalker。**
 
 `SadTalker：` **https://github.com/OpenTalker/SadTalker**
+
+**数字人动作生成使用的是Wav2Lip。**
+
+`Wav2Lip：` **https://github.com/Rudrabha/Wav2Lip**
 
 **感谢开源贡献，我借鉴了当前开源的语音克隆模型 GPT-SoVITS，效果是相当不错，当然，我也把一些训练好的权重放在了百度云盘里面，可以用于参考使用。**
 
