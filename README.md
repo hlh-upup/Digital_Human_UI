@@ -38,6 +38,10 @@ https://github.com/user-attachments/assets/fdf3ceee-3026-47bf-ae42-4b30a5694d1c
 
 - **我们对ppt插入数字人和声音的部分进行了调整，用户在配置时可以自行选择增加数字人及音频的页码，可以选择仅添加数字人或仅添加音频。**
 
+  <div align="center">
+ <img src="docs/12.png"/><br>
+ </div>
+
 > [!IMPORTANT]
 >
 > 🔆 该项目也在持续的更新阶段，如果您有任何关于新的模型方法、研究、技术或发现运行错误的建议，请随时编辑并提交 PR。⭐ 如果您发现这个Github Project有用，请给它点个星！🤩🤩
