@@ -92,7 +92,7 @@ https://github.com/user-attachments/assets/fdf3ceee-3026-47bf-ae42-4b30a5694d1c
 
 ## 操作流程 
 
-[**可以在blbl看具体操作**]([https://www.bilibili.com/video/BV1hpsYeaEit/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1Zm22YJEuB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d9c1011fcda5afa76e9f5504f72e577f))
+[**可以在blbl看具体操作**](https://www.bilibili.com/video/BV1Zm22YJEuB/?share_source=copy_web&vd_source=6f96b94c8ec94705c0c8d2ae68f060a4)
 
 ## 开始使用
 
